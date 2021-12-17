@@ -1,0 +1,76 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16 px;
+    
+}
+
+body{
+    background-image: url("C:\Users\Administrador\Documents\GitHub\Ola-Mundo\imagens\wallpaper 1.jpg");
+    background-image: url("imagens\wallpaper 1.jpg");
+    background-color: rgb(248, 248, 248);
+    color: blanchedalmond;    
+    width: 600 px;
+    padding: auto;    
+    margin: 150px;
+    margin-top: 100px;
+    border-radius: 20px;
+    }
+header{
+    background-color: rgba(208, 219, 233, 0.377);
+    border-radius: 20px;
+}
+
+p{
+    color: black;
+    text-shadow: none;
+    font-weight: bolder;
+    padding-left: 20px;
+}
+
+main{
+    background-color: rgb(233, 239, 243);
+    width: 500 px;
+    margin: auto;
+    box-shadow: 3px 3px 50px black;
+    padding: 80px;
+
+}
+img.lado{
+    float: right;
+}
+.container{
+    display: inline-block;
+    margin-left: 20px;
+    line-height: 30px;
+    
+}
+.foto_perfil{
+    display: inline-block;
+    margin-right: 30px;
+    padding: 20px;
+    
+    }
+ .perfil{
+     border-radius: 20px;
+ }   
+li{
+    padding-bottom: 40px;
+}
+h1{
+    font-size: 2em;
+    color: rgb(58, 0, 112);
+    text-shadow: 2px 2px 2px rgb(255, 255, 255);
+}
+h2{
+    font-size: 1.5em;
+    color: rgb(58, 0, 112);    
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(58, 0, 112);
+}
+a.perfil{
+    
+    padding-right: 30px;
+}
